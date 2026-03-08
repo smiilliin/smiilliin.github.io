@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/the-money-flows/static/css/main.2423a7ac.css",
+    "main.js": "/the-money-flows/static/js/main.397ded1a.js",
+    "static/js/453.94ec19a4.chunk.js": "/the-money-flows/static/js/453.94ec19a4.chunk.js",
+    "index.html": "/the-money-flows/index.html",
+    "main.2423a7ac.css.map": "/the-money-flows/static/css/main.2423a7ac.css.map",
+    "main.397ded1a.js.map": "/the-money-flows/static/js/main.397ded1a.js.map",
+    "453.94ec19a4.chunk.js.map": "/the-money-flows/static/js/453.94ec19a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2423a7ac.css",
+    "static/js/main.397ded1a.js"
+  ]
+}
