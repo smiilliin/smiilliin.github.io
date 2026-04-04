@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" href="/JAPRadio/favicon.ico?v=1">
-  <link rel="apple-touch-icon" href="/JAPRadio/icon.png"/>
+  <link rel="icon" href="./favicon.ico">
+  <link rel="apple-touch-icon" href="./icon.png"/>
   <title>JAPRadio</title>
   <style>
     :root {
@@ -41,6 +41,21 @@
 
     .title-block {
       margin-bottom: 16px;
+    }
+
+    .title-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .title-icon {
+      width: 40px;
+      height: 40px;
+      flex: 0 0 auto;
+      border-radius: 10px;
+      object-fit: cover;
+      box-shadow: 0 6px 16px rgba(15, 118, 110, 0.12);
     }
 
     h1 {
@@ -206,8 +221,11 @@
 <body>
   <main class="app">
     <header class="title-block">
-      <h1>JAPRadio Listener</h1>
-      <p class="subtitle">scripts + audio pair browser</p>
+      <div class="title-row">
+        <img class="title-icon" src="./icon.png" alt="JAPRadio icon">
+        <h1>JAPRadio - ゆるっと電波</h1>
+      </div>
+      <p class="subtitle">A Japanese radio for beginner learners</p>
     </header>
 
     <section class="layout">
@@ -315,7 +333,7 @@
 
     function showEpisode(ep) {
       topicEl.textContent = ep.topic;
-      metaEl.textContent = `File: ${ep.filename} | Created: ${formatTimeKey(ep.time)}`;
+      metaEl.textContent = `${formatTimeKey(ep.time)}`;
       scriptEl.textContent = ep.script;
       playerEl.src = ep.audio;
       playerEl.load();
@@ -335,20 +353,20 @@
       for (const ep of items) {
         const li = document.createElement("li");
         const button = document.createElement("button");
-        const fileNameP = document.createElement("p");
+        const topicP = document.createElement("p");
         const timeP = document.createElement("p");
 
         button.className = "episode-btn";
         button.dataset.time = ep.time;
         button.type = "button";
 
-        fileNameP.className = "ep-topic";
-        fileNameP.textContent = ep.filename;
+        topicP.className = "ep-topic";
+        topicP.textContent = ep.topic;
 
         timeP.className = "ep-time";
         timeP.textContent = formatTimeKey(ep.time);
 
-        button.append(fileNameP, timeP);
+        button.append(topicP, timeP);
         button.addEventListener("click", () => showEpisode(ep));
         li.appendChild(button);
         fragment.appendChild(li);
