@@ -16,5 +16,5 @@ Github Page For My Web-Apps
 	<img src="JAPRadio/icon.png" alt="JAPRadio icon" width="80">
 </p>
 
-*JAPRadio - JAPRadio is a small Japanese radio content generator built for beginner learners.*
+*JAPRadio - JAPRadio is a small Japanese radio content generator built for beginner learners.*  
 [https://smiilliin.github.io/JAPRadio](https://smiilliin.github.io/JAPRadio)
