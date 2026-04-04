@@ -11,7 +11,7 @@ Github Page For My Web-Apps
 *The Money Flows - Personal Budget Tracker*  
 [https://smiilliin.github.io/the-money-flows](https://smiilliin.github.io/the-money-flows)
 
-### the-money-flows
+### JAPRadio
 <p align="center">
 	<img src="JAPRadio/icon.png" alt="JAPRadio icon" width="80">
 </p>
