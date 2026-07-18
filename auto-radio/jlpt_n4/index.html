@@ -338,7 +338,7 @@
         metaEl.textContent = `${formatTimeKey(ep.time)}`;
         scriptEl.textContent = ep.script.reduce((acc, [text, delay]) => {
           if (delay >= 500) {
-            acc += "\n\n";
+            acc += text + "\n\n";
           } else {
             acc += text + " ";
           }
