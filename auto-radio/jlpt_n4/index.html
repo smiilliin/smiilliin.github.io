@@ -336,7 +336,16 @@
       function showEpisode(ep) {
         topicEl.textContent = ep.topic;
         metaEl.textContent = `${formatTimeKey(ep.time)}`;
-        scriptEl.textContent = ep.script;
+        scriptEl.textContent = ep.script.reduce((acc, [text, delay]) => {
+          if (delay >= 500) {
+            acc += "\n\n";
+          } else {
+            acc += text + " ";
+          }
+
+          return acc;
+        }, "");
+
         playerEl.src = ep.audio;
         playerEl.load();
         setActiveButton(ep.time);
