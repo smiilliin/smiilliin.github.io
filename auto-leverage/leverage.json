@@ -1,8 +1,8 @@
 {
-  "data_date": "2026-10-26",
-  "predicted_21d_volatility": 0.1858681537693428,
+  "data_date": "2026-10-27",
+  "predicted_21d_volatility": 0.1852943854143044,
   "target_volatility": 0.25,
   "alpha": 1.0,
-  "raw_leverage": 1.345039453666942,
-  "ema_leverage": 1.392048871303949
+  "raw_leverage": 1.3492043994804197,
+  "ema_leverage": 1.3842589673360346
 }
