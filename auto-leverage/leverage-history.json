@@ -52,7 +52,7 @@
       "date": "2021-11-26",
       "leverage": 0.8919018004126692,
       "raw_leverage": 0.8654462827081194,
-      "predicted_leverage": 0.7161075241277792
+      "predicted_leverage": 0.7161075241277791
     },
     {
       "date": "2021-11-29",
@@ -447,24 +447,24 @@
     {
       "date": "2022-03-03",
       "leverage": 0.7033870101009444,
-      "raw_leverage": 0.702162731750952,
-      "predicted_leverage": 0.6984898967009745
+      "raw_leverage": 0.7021627317509519,
+      "predicted_leverage": 0.6984898967009744
     },
     {
       "date": "2022-03-04",
-      "leverage": 0.702162731750952,
-      "raw_leverage": 0.6958310798550641,
-      "predicted_leverage": 0.6768361241674
+      "leverage": 0.7021627317509519,
+      "raw_leverage": 0.695831079855064,
+      "predicted_leverage": 0.6768361241673999
     },
     {
       "date": "2022-03-07",
-      "leverage": 0.6958310798550641,
-      "raw_leverage": 0.6779578871148046,
+      "leverage": 0.695831079855064,
+      "raw_leverage": 0.6779578871148045,
       "predicted_leverage": 0.6243383088940262
     },
     {
       "date": "2022-03-08",
-      "leverage": 0.6779578871148046,
+      "leverage": 0.6779578871148045,
       "raw_leverage": 0.6682205529622351,
       "predicted_leverage": 0.6390085505045269
     },
@@ -730,7 +730,7 @@
       "date": "2022-05-10",
       "leverage": 0.6886559989186829,
       "raw_leverage": 0.6801024364917132,
-      "predicted_leverage": 0.654441749210804
+      "predicted_leverage": 0.6544417492108041
     },
     {
       "date": "2022-05-11",
@@ -778,7 +778,7 @@
       "date": "2022-05-20",
       "leverage": 0.7078341776857139,
       "raw_leverage": 0.7071660993837041,
-      "predicted_leverage": 0.7051618644776746
+      "predicted_leverage": 0.7051618644776747
     },
     {
       "date": "2022-05-23",
@@ -837,36 +837,36 @@
     {
       "date": "2022-06-06",
       "leverage": 0.7607497616042233,
-      "raw_leverage": 0.7641688998707429,
-      "predicted_leverage": 0.774426314670302
+      "raw_leverage": 0.764168899870743,
+      "predicted_leverage": 0.7744263146703021
     },
     {
       "date": "2022-06-07",
-      "leverage": 0.7641688998707429,
-      "raw_leverage": 0.7714018878234927,
+      "leverage": 0.764168899870743,
+      "raw_leverage": 0.7714018878234928,
       "predicted_leverage": 0.7931008516817425
     },
     {
       "date": "2022-06-08",
-      "leverage": 0.7714018878234927,
-      "raw_leverage": 0.7771481898992538,
+      "leverage": 0.7714018878234928,
+      "raw_leverage": 0.7771481898992539,
       "predicted_leverage": 0.7943870961265374
     },
     {
       "date": "2022-06-09",
-      "leverage": 0.7771481898992538,
-      "raw_leverage": 0.7727863575832431,
+      "leverage": 0.7771481898992539,
+      "raw_leverage": 0.7727863575832432,
       "predicted_leverage": 0.759700860635211
     },
     {
       "date": "2022-06-10",
-      "leverage": 0.7727863575832431,
-      "raw_leverage": 0.7627051890763773,
+      "leverage": 0.7727863575832432,
+      "raw_leverage": 0.7627051890763774,
       "predicted_leverage": 0.7324616835557799
     },
     {
       "date": "2022-06-13",
-      "leverage": 0.7627051890763773,
+      "leverage": 0.7627051890763774,
       "raw_leverage": 0.7328518657028069,
       "predicted_leverage": 0.6432918955820954
     },
@@ -874,7 +874,7 @@
       "date": "2022-06-14",
       "leverage": 0.7328518657028069,
       "raw_leverage": 0.7130457722629276,
-      "predicted_leverage": 0.6536274919432898
+      "predicted_leverage": 0.6536274919432897
     },
     {
       "date": "2022-06-15",
@@ -964,7 +964,7 @@
       "date": "2022-07-07",
       "leverage": 0.7367262222399195,
       "raw_leverage": 0.7433645241984392,
-      "predicted_leverage": 0.7632794300739987
+      "predicted_leverage": 0.7632794300739986
     },
     {
       "date": "2022-07-08",
@@ -982,7 +982,7 @@
       "date": "2022-07-12",
       "leverage": 0.7559279144127595,
       "raw_leverage": 0.7531854064103198,
-      "predicted_leverage": 0.7449578824030009
+      "predicted_leverage": 0.744957882403001
     },
     {
       "date": "2022-07-13",
@@ -1270,7 +1270,7 @@
       "date": "2022-09-19",
       "leverage": 0.7628414638490928,
       "raw_leverage": 0.7624948380831383,
-      "predicted_leverage": 0.761454960785275
+      "predicted_leverage": 0.7614549607852751
     },
     {
       "date": "2022-09-20",
@@ -1341,12 +1341,12 @@
     {
       "date": "2022-10-05",
       "leverage": 0.7024680912873449,
-      "raw_leverage": 0.7070385336826475,
-      "predicted_leverage": 0.7207498608685554
+      "raw_leverage": 0.7070385336826476,
+      "predicted_leverage": 0.7207498608685555
     },
     {
       "date": "2022-10-06",
-      "leverage": 0.7070385336826475,
+      "leverage": 0.7070385336826476,
       "raw_leverage": 0.7042493938559922,
       "predicted_leverage": 0.6958819743760263
     },
@@ -1420,7 +1420,7 @@
       "date": "2022-10-24",
       "leverage": 0.6949202523289086,
       "raw_leverage": 0.6976220047839401,
-      "predicted_leverage": 0.7057272621490345
+      "predicted_leverage": 0.7057272621490346
     },
     {
       "date": "2022-10-25",
@@ -1432,7 +1432,7 @@
       "date": "2022-10-26",
       "leverage": 0.7046875782262706,
       "raw_leverage": 0.7144388731585303,
-      "predicted_leverage": 0.7436927579553092
+      "predicted_leverage": 0.7436927579553093
     },
     {
       "date": "2022-10-27",
@@ -1510,7 +1510,7 @@
       "date": "2022-11-14",
       "leverage": 0.7827140716912415,
       "raw_leverage": 0.7836024546654621,
-      "predicted_leverage": 0.7862676035881242
+      "predicted_leverage": 0.7862676035881241
     },
     {
       "date": "2022-11-15",
@@ -1678,7 +1678,7 @@
       "date": "2022-12-23",
       "leverage": 0.8303552469779223,
       "raw_leverage": 0.8342178571448338,
-      "predicted_leverage": 0.8458056876455686
+      "predicted_leverage": 0.8458056876455685
     },
     {
       "date": "2022-12-27",
@@ -1816,7 +1816,7 @@
       "date": "2023-01-30",
       "leverage": 0.8756198639218341,
       "raw_leverage": 0.8722364241199931,
-      "predicted_leverage": 0.8620861047144701
+      "predicted_leverage": 0.86208610471447
     },
     {
       "date": "2023-01-31",
@@ -1989,60 +1989,60 @@
     {
       "date": "2023-03-13",
       "leverage": 0.8361661573421796,
-      "raw_leverage": 0.8137569595888814,
-      "predicted_leverage": 0.7465293663289867
+      "raw_leverage": 0.8137569595888813,
+      "predicted_leverage": 0.7465293663289866
     },
     {
       "date": "2023-03-14",
-      "leverage": 0.8137569595888814,
-      "raw_leverage": 0.8088707680700443,
+      "leverage": 0.8137569595888813,
+      "raw_leverage": 0.8088707680700442,
       "predicted_leverage": 0.7942121935135331
     },
     {
       "date": "2023-03-15",
-      "leverage": 0.8088707680700443,
-      "raw_leverage": 0.7950078181460747,
+      "leverage": 0.8088707680700442,
+      "raw_leverage": 0.7950078181460746,
       "predicted_leverage": 0.7534189683741657
     },
     {
       "date": "2023-03-16",
-      "leverage": 0.7950078181460747,
-      "raw_leverage": 0.7987687201934551,
+      "leverage": 0.7950078181460746,
+      "raw_leverage": 0.798768720193455,
       "predicted_leverage": 0.8100514263355962
     },
     {
       "date": "2023-03-17",
-      "leverage": 0.7987687201934551,
-      "raw_leverage": 0.7915782731109631,
+      "leverage": 0.798768720193455,
+      "raw_leverage": 0.791578273110963,
       "predicted_leverage": 0.7700069318634868
     },
     {
       "date": "2023-03-20",
-      "leverage": 0.7915782731109631,
-      "raw_leverage": 0.7920620711922517,
+      "leverage": 0.791578273110963,
+      "raw_leverage": 0.7920620711922516,
       "predicted_leverage": 0.7935134654361174
     },
     {
       "date": "2023-03-21",
-      "leverage": 0.7920620711922517,
-      "raw_leverage": 0.8036907063648876,
+      "leverage": 0.7920620711922516,
+      "raw_leverage": 0.8036907063648875,
       "predicted_leverage": 0.8385766118827954
     },
     {
       "date": "2023-03-22",
-      "leverage": 0.8036907063648876,
-      "raw_leverage": 0.8090532736090736,
+      "leverage": 0.8036907063648875,
+      "raw_leverage": 0.8090532736090735,
       "predicted_leverage": 0.8251409753416317
     },
     {
       "date": "2023-03-23",
-      "leverage": 0.8090532736090736,
-      "raw_leverage": 0.8107596173835817,
+      "leverage": 0.8090532736090735,
+      "raw_leverage": 0.8107596173835816,
       "predicted_leverage": 0.8158786487071058
     },
     {
       "date": "2023-03-24",
-      "leverage": 0.8107596173835817,
+      "leverage": 0.8107596173835816,
       "raw_leverage": 0.816497852853159,
       "predicted_leverage": 0.833712559261891
     },
@@ -2398,7 +2398,7 @@
       "date": "2023-06-20",
       "leverage": 0.9676260920317268,
       "raw_leverage": 0.9696968944683519,
-      "predicted_leverage": 0.9759093017782274
+      "predicted_leverage": 0.9759093017782273
     },
     {
       "date": "2023-06-21",
@@ -2644,7 +2644,7 @@
       "date": "2023-08-17",
       "leverage": 0.9355923536621701,
       "raw_leverage": 0.9257618853486915,
-      "predicted_leverage": 0.8962704804082557
+      "predicted_leverage": 0.8962704804082559
     },
     {
       "date": "2023-08-18",
@@ -2728,7 +2728,7 @@
       "date": "2023-09-07",
       "leverage": 0.9671754333121916,
       "raw_leverage": 0.9662231827416039,
-      "predicted_leverage": 0.9633664310298409
+      "predicted_leverage": 0.963366431029841
     },
     {
       "date": "2023-09-08",
@@ -3244,7 +3244,7 @@
       "date": "2024-01-10",
       "leverage": 0.9875017503905603,
       "raw_leverage": 0.9906079027722507,
-      "predicted_leverage": 0.9999263599173219
+      "predicted_leverage": 0.999926359917322
     },
     {
       "date": "2024-01-11",
@@ -3328,7 +3328,7 @@
       "date": "2024-01-31",
       "leverage": 0.984797666396745,
       "raw_leverage": 0.9795399547992726,
-      "predicted_leverage": 0.9637668200068553
+      "predicted_leverage": 0.9637668200068554
     },
     {
       "date": "2024-02-01",
@@ -3459,24 +3459,24 @@
     {
       "date": "2024-03-04",
       "leverage": 0.979328926726902,
-      "raw_leverage": 0.9800501241200558,
-      "predicted_leverage": 0.9822137162995174
+      "raw_leverage": 0.9800501241200559,
+      "predicted_leverage": 0.9822137162995175
     },
     {
       "date": "2024-03-05",
-      "leverage": 0.9800501241200558,
-      "raw_leverage": 0.9754040693038704,
+      "leverage": 0.9800501241200559,
+      "raw_leverage": 0.9754040693038705,
       "predicted_leverage": 0.9614659048553141
     },
     {
       "date": "2024-03-06",
-      "leverage": 0.9754040693038704,
-      "raw_leverage": 0.9718088594064881,
+      "leverage": 0.9754040693038705,
+      "raw_leverage": 0.9718088594064882,
       "predicted_leverage": 0.9610232297143414
     },
     {
       "date": "2024-03-07",
-      "leverage": 0.9718088594064881,
+      "leverage": 0.9718088594064882,
       "raw_leverage": 0.9692724577432782,
       "predicted_leverage": 0.9616632527536484
     },
@@ -3490,7 +3490,7 @@
       "date": "2024-03-11",
       "leverage": 0.9656124491979472,
       "raw_leverage": 0.9605697380035803,
-      "predicted_leverage": 0.9454416044204799
+      "predicted_leverage": 0.9454416044204798
     },
     {
       "date": "2024-03-12",
@@ -3694,7 +3694,7 @@
       "date": "2024-04-29",
       "leverage": 0.9337034967280933,
       "raw_leverage": 0.9406654827084463,
-      "predicted_leverage": 0.9615514406495055
+      "predicted_leverage": 0.9615514406495054
     },
     {
       "date": "2024-04-30",
@@ -3712,7 +3712,7 @@
       "date": "2024-05-02",
       "leverage": 0.9416677383615335,
       "raw_leverage": 0.946005630442307,
-      "predicted_leverage": 0.9590193066846275
+      "predicted_leverage": 0.9590193066846274
     },
     {
       "date": "2024-05-03",
@@ -4018,7 +4018,7 @@
       "date": "2024-07-17",
       "leverage": 0.9931550101195563,
       "raw_leverage": 0.9849526765411141,
-      "predicted_leverage": 0.9603456758057874
+      "predicted_leverage": 0.9603456758057873
     },
     {
       "date": "2024-07-18",
@@ -4455,30 +4455,30 @@
     {
       "date": "2024-10-29",
       "leverage": 0.8717314704546886,
-      "raw_leverage": 0.8720549578679535,
-      "predicted_leverage": 0.8730254201077481
+      "raw_leverage": 0.8720549578679534,
+      "predicted_leverage": 0.873025420107748
     },
     {
       "date": "2024-10-30",
-      "leverage": 0.8720549578679535,
-      "raw_leverage": 0.8680100128009166,
+      "leverage": 0.8720549578679534,
+      "raw_leverage": 0.8680100128009165,
       "predicted_leverage": 0.8558751775998057
     },
     {
       "date": "2024-10-31",
-      "leverage": 0.8680100128009166,
-      "raw_leverage": 0.8525594210769337,
+      "leverage": 0.8680100128009165,
+      "raw_leverage": 0.8525594210769336,
       "predicted_leverage": 0.8062076459049851
     },
     {
       "date": "2024-11-01",
-      "leverage": 0.8525594210769337,
-      "raw_leverage": 0.8465042210339496,
+      "leverage": 0.8525594210769336,
+      "raw_leverage": 0.8465042210339495,
       "predicted_leverage": 0.8283386209049972
     },
     {
       "date": "2024-11-04",
-      "leverage": 0.8465042210339496,
+      "leverage": 0.8465042210339495,
       "raw_leverage": 0.8414345030958559,
       "predicted_leverage": 0.826225349281575
     },
@@ -4558,7 +4558,7 @@
       "date": "2024-11-21",
       "leverage": 0.9298487973917479,
       "raw_leverage": 0.9257882816649438,
-      "predicted_leverage": 0.9136067344845314
+      "predicted_leverage": 0.9136067344845316
     },
     {
       "date": "2024-11-22",
@@ -4570,7 +4570,7 @@
       "date": "2024-11-25",
       "leverage": 0.9316818905110237,
       "raw_leverage": 0.939241319251483,
-      "predicted_leverage": 0.9619196054728612
+      "predicted_leverage": 0.9619196054728613
     },
     {
       "date": "2024-11-26",
@@ -4642,7 +4642,7 @@
       "date": "2024-12-12",
       "leverage": 0.9774044091075612,
       "raw_leverage": 0.9764255197862878,
-      "predicted_leverage": 0.9734888518224672
+      "predicted_leverage": 0.9734888518224674
     },
     {
       "date": "2024-12-13",
@@ -4984,7 +4984,7 @@
       "date": "2025-03-10",
       "leverage": 0.8174487739597333,
       "raw_leverage": 0.796022737013231,
-      "predicted_leverage": 0.7317446261737243
+      "predicted_leverage": 0.7317446261737244
     },
     {
       "date": "2025-03-11",
@@ -5146,7 +5146,7 @@
       "date": "2025-04-16",
       "leverage": 0.6323820746366569,
       "raw_leverage": 0.635472458228495,
-      "predicted_leverage": 0.6447436090040093
+      "predicted_leverage": 0.6447436090040092
     },
     {
       "date": "2025-04-17",
@@ -5361,72 +5361,72 @@
     {
       "date": "2025-06-09",
       "leverage": 0.8971800899138129,
-      "raw_leverage": 0.9012540261444036,
-      "predicted_leverage": 0.9134758348361757
+      "raw_leverage": 0.9012540261444035,
+      "predicted_leverage": 0.9134758348361756
     },
     {
       "date": "2025-06-10",
-      "leverage": 0.9012540261444036,
-      "raw_leverage": 0.9052105780418384,
+      "leverage": 0.9012540261444035,
+      "raw_leverage": 0.9052105780418382,
       "predicted_leverage": 0.9170802337341426
     },
     {
       "date": "2025-06-11",
-      "leverage": 0.9052105780418384,
-      "raw_leverage": 0.906673806130773,
+      "leverage": 0.9052105780418382,
+      "raw_leverage": 0.9066738061307729,
       "predicted_leverage": 0.9110634903975767
     },
     {
       "date": "2025-06-12",
-      "leverage": 0.906673806130773,
-      "raw_leverage": 0.9044181519499084,
-      "predicted_leverage": 0.8976511894073144
+      "leverage": 0.9066738061307729,
+      "raw_leverage": 0.9044181519499082,
+      "predicted_leverage": 0.8976511894073143
     },
     {
       "date": "2025-06-13",
-      "leverage": 0.9044181519499084,
-      "raw_leverage": 0.8891360356081799,
+      "leverage": 0.9044181519499082,
+      "raw_leverage": 0.8891360356081797,
       "predicted_leverage": 0.8432896865829945
     },
     {
       "date": "2025-06-16",
-      "leverage": 0.8891360356081799,
-      "raw_leverage": 0.8855962175053219,
+      "leverage": 0.8891360356081797,
+      "raw_leverage": 0.8855962175053218,
       "predicted_leverage": 0.8749767631967483
     },
     {
       "date": "2025-06-17",
-      "leverage": 0.8855962175053219,
-      "raw_leverage": 0.8714408281211101,
+      "leverage": 0.8855962175053218,
+      "raw_leverage": 0.8714408281211099,
       "predicted_leverage": 0.8289746599684744
     },
     {
       "date": "2025-06-18",
-      "leverage": 0.8714408281211101,
-      "raw_leverage": 0.8675283481211734,
+      "leverage": 0.8714408281211099,
+      "raw_leverage": 0.8675283481211732,
       "predicted_leverage": 0.8557909081213632
     },
     {
       "date": "2025-06-20",
-      "leverage": 0.8675283481211734,
-      "raw_leverage": 0.8627532696174366,
+      "leverage": 0.8675283481211732,
+      "raw_leverage": 0.8627532696174364,
       "predicted_leverage": 0.848428034106226
     },
     {
       "date": "2025-06-23",
-      "leverage": 0.8627532696174366,
-      "raw_leverage": 0.8636569463064994,
+      "leverage": 0.8627532696174364,
+      "raw_leverage": 0.8636569463064991,
       "predicted_leverage": 0.8663679763736875
     },
     {
       "date": "2025-06-24",
-      "leverage": 0.8636569463064994,
-      "raw_leverage": 0.874861422936158,
+      "leverage": 0.8636569463064991,
+      "raw_leverage": 0.8748614229361579,
       "predicted_leverage": 0.9084748528251341
     },
     {
       "date": "2025-06-25",
-      "leverage": 0.874861422936158,
+      "leverage": 0.8748614229361579,
       "raw_leverage": 0.8872444692886062,
       "predicted_leverage": 0.9243936083459512
     },
@@ -5673,12 +5673,12 @@
     {
       "date": "2025-08-22",
       "leverage": 0.938918345220472,
-      "raw_leverage": 0.9465808756167919,
-      "predicted_leverage": 0.9695684668057514
+      "raw_leverage": 0.9465808756167918,
+      "predicted_leverage": 0.9695684668057513
     },
     {
       "date": "2025-08-25",
-      "leverage": 0.9465808756167919,
+      "leverage": 0.9465808756167918,
       "raw_leverage": 0.9491151229794843,
       "predicted_leverage": 0.9567178650675616
     },
@@ -5824,7 +5824,7 @@
       "date": "2025-09-29",
       "leverage": 0.9349346939917348,
       "raw_leverage": 0.9342826710038226,
-      "predicted_leverage": 0.9323266020400859
+      "predicted_leverage": 0.932326602040086
     },
     {
       "date": "2025-09-30",
@@ -5956,7 +5956,7 @@
       "date": "2025-10-29",
       "leverage": 0.9120302324741114,
       "raw_leverage": 0.9136320177462447,
-      "predicted_leverage": 0.9184373735626445
+      "predicted_leverage": 0.9184373735626447
     },
     {
       "date": "2025-10-30",
@@ -6052,7 +6052,7 @@
       "date": "2025-11-20",
       "leverage": 0.8310418394302966,
       "raw_leverage": 0.8114142344459768,
-      "predicted_leverage": 0.7525314194930175
+      "predicted_leverage": 0.7525314194930174
     },
     {
       "date": "2025-11-21",
@@ -6082,7 +6082,7 @@
       "date": "2025-11-28",
       "leverage": 0.8572846177465976,
       "raw_leverage": 0.8765442310345615,
-      "predicted_leverage": 0.9343230708984533
+      "predicted_leverage": 0.9343230708984532
     },
     {
       "date": "2025-12-01",
@@ -6208,7 +6208,7 @@
       "date": "2025-12-30",
       "leverage": 0.9663500376875156,
       "raw_leverage": 0.9661805865561284,
-      "predicted_leverage": 0.9656722331619668
+      "predicted_leverage": 0.9656722331619667
     },
     {
       "date": "2025-12-31",
@@ -6477,12 +6477,12 @@
     {
       "date": "2026-03-06",
       "leverage": 0.8330046493550766,
-      "raw_leverage": 0.8013338142004655,
-      "predicted_leverage": 0.7063213087366323
+      "raw_leverage": 0.8013338142004656,
+      "predicted_leverage": 0.7063213087366325
     },
     {
       "date": "2026-03-09",
-      "leverage": 0.8013338142004655,
+      "leverage": 0.8013338142004656,
       "raw_leverage": 0.7932601202340102,
       "predicted_leverage": 0.7690390383346439
     },
@@ -6574,7 +6574,7 @@
       "date": "2026-03-30",
       "leverage": 0.7450712395768857,
       "raw_leverage": 0.7327244678550218,
-      "predicted_leverage": 0.69568415268943
+      "predicted_leverage": 0.6956841526894301
     },
     {
       "date": "2026-03-31",
@@ -6742,7 +6742,7 @@
       "date": "2026-05-08",
       "leverage": 0.9056912895013925,
       "raw_leverage": 0.9070776456729074,
-      "predicted_leverage": 0.9112367141874521
+      "predicted_leverage": 0.911236714187452
     },
     {
       "date": "2026-05-11",
@@ -6970,7 +6970,7 @@
       "date": "2026-07-06",
       "leverage": 0.9133857336919182,
       "raw_leverage": 0.9213059563143691,
-      "predicted_leverage": 0.9450666241817214
+      "predicted_leverage": 0.9450666241817215
     },
     {
       "date": "2026-07-07",
@@ -7299,42 +7299,42 @@
     {
       "date": "2026-09-22",
       "leverage": 0.939539505718256,
-      "raw_leverage": 0.9474468910971819,
-      "predicted_leverage": 0.9711690472339599
+      "raw_leverage": 0.9474468910971818,
+      "predicted_leverage": 0.9711690472339598
     },
     {
       "date": "2026-09-23",
-      "leverage": 0.9474468910971819,
-      "raw_leverage": 0.9486358735498293,
+      "leverage": 0.9474468910971818,
+      "raw_leverage": 0.948635873549829,
       "predicted_leverage": 0.9522028209077711
     },
     {
       "date": "2026-09-24",
-      "leverage": 0.9486358735498293,
-      "raw_leverage": 0.946328425294001,
+      "leverage": 0.948635873549829,
+      "raw_leverage": 0.9463284252940007,
       "predicted_leverage": 0.9394060805265159
     },
     {
       "date": "2026-09-25",
-      "leverage": 0.946328425294001,
-      "raw_leverage": 0.9485153539441231,
+      "leverage": 0.9463284252940007,
+      "raw_leverage": 0.9485153539441229,
       "predicted_leverage": 0.9550761398944896
     },
     {
       "date": "2026-09-28",
-      "leverage": 0.9485153539441231,
-      "raw_leverage": 0.9440986217193528,
+      "leverage": 0.9485153539441229,
+      "raw_leverage": 0.9440986217193527,
       "predicted_leverage": 0.9308484250450421
     },
     {
       "date": "2026-09-29",
-      "leverage": 0.9440986217193528,
-      "raw_leverage": 0.9406333252695113,
+      "leverage": 0.9440986217193527,
+      "raw_leverage": 0.9406333252695112,
       "predicted_leverage": 0.9302374359199869
     },
     {
       "date": "2026-09-30",
-      "leverage": 0.9406333252695113,
+      "leverage": 0.9406333252695112,
       "raw_leverage": 0.9369825783042549,
       "predicted_leverage": 0.9260303374084857
     },
@@ -7366,7 +7366,7 @@
       "date": "2026-10-07",
       "leverage": 0.9428468323819745,
       "raw_leverage": 0.9454674514771706,
-      "predicted_leverage": 0.9533293087627585
+      "predicted_leverage": 0.9533293087627586
     },
     {
       "date": "2026-10-08",
