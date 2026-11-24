@@ -1,21 +1,20 @@
 {
   "model": "VIX premium direct leverage",
-  "data_date": "2026-11-20",
-  "predicted_leverage": 0.6148399832601672,
+  "data_date": "2026-11-23",
+  "predicted_leverage": 0.7433289987139114,
   "target_volatility": 0.18,
   "target_max_drawdown": -0.35,
-  "alpha": 1.0,
   "inverse_vol_alpha": 4.1,
   "ema_span": 7,
-  "raw_leverage": 0.6148399832601672,
-  "leverage": 0.7914726131324314,
-  "ema_leverage": 0.7914726131324314,
+  "raw_leverage": 0.7433289987139114,
+  "leverage": 0.7476289555161703,
+  "ema_leverage": 0.7476289555161703,
   "performance": {
-    "annual_volatility": 0.1444583413680299,
-    "sharpe": 0.5589044864991294,
-    "cagr": 0.07279865161318555,
-    "max_drawdown": -0.411398908675096
+    "annual_volatility": 0.14468448419324748,
+    "sharpe": 0.5680044946408339,
+    "cagr": 0.07431297437108308,
+    "max_drawdown": -0.4113983337116762
   },
-  "active_start": "2006-11-29",
-  "active_end": "2026-11-20"
+  "active_start": "2006-12-04",
+  "active_end": "2026-11-23"
 }
